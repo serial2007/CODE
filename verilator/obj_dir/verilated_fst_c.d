@@ -1,0 +1,19 @@
+verilated_fst_c.o: \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_fst_c.cpp \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilatedos.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_config.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_types.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_funcs.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_fst_c.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_trace.h \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/fastlz.c \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/fastlz.h \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/fastlz.c \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/fstapi.c \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/fstapi.h \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/lz4.h \
+ /home/chen/opt/verilator/build/share/verilator/include/gtkwave/lz4.c \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_trace_imp.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_intrinsics.h \
+ /home/chen/opt/verilator/build/share/verilator/include/verilated_threads.h
